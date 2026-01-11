@@ -1,0 +1,5 @@
+Component: main
+Origin: GoldenDog
+Label: GoldenDogLinux-Repo
+Architecture: source
+Description: GoldenDog Linux 2 (Golden Retriever)

@@ -1,0 +1,64 @@
+Package: goldendog-welcome
+Version: 1.0.0
+Architecture: all
+Maintainer: Alexia Steinberg <alexia@goldendoglinux.org>
+Installed-Size: 135
+Depends: python3, python3-gi, gir1.2-gtk-4.0, gir1.2-adw-1
+Homepage: https://goldendoglinux.org
+Priority: optional
+Section: admin
+Filename: pool/main/g/goldendog-welcome/goldendog-welcome_1.0.0_all.deb
+Size: 32980
+SHA256: b507a533efaf3e08b4252c97d91009660615e53eafe4e7cce213b3fe1c78e35e
+SHA1: 3d6acbc988a4e7ab27f44877333c36d120d2b820
+MD5sum: d4756f83525facd05c71707667a93407
+Description: First-boot welcome screen for GoldenDog Linux
+ A modern welcome screen built with GTK4 and libadwaita that guides
+ new users through initial system setup.
+ .
+ Features:
+  - Multi-language support (8 languages)
+  - EULA acceptance
+  - Telemetry configuration (KDE Plasma and Debian popularity-contest)
+  - Clean, responsive Adwaita design
+
+Package: goldendoglinux
+Version: 2.0.0
+Architecture: all
+Maintainer: Alexia Michelle <alexia@goldendoglinux.org>
+Installed-Size: 7
+Homepage: https://goldendoglinux.org
+Priority: optional
+Section: metapackages
+Filename: pool/main/g/goldendoglinux/goldendoglinux_2.0.0_all.deb
+Size: 1236
+SHA256: a431934eb0bee24bc90658b56515bc0212e958326438145105fe047301316811
+SHA1: e68ea3758b7605b8030a99a720085b7ab94f7756
+MD5sum: e021307c9cf20ea197e048d2aa157309
+Description: GoldenDog Linux System - Metapackage
+ This metapackage ensures that the GoldenDog Linux system is installed and
+ kept up to date.
+ .
+ It depends on the core components of the distribution.
+ when a new version of GoldenDog is released, this package will depend on
+ the new components, ensuring a smooth upgrade path.
+
+Package: neofetch-c
+Version: 0.1.0
+Architecture: amd64
+Maintainer: Alexia Michelle <alexia@goldendoglinux.org>
+Installed-Size: 334
+Depends: libc6 (>= 2.34)
+Homepage: https://github.com/alexiarstein/neofetch-c
+Priority: optional
+Section: misc
+Filename: pool/main/n/neofetch-c/neofetch-c_0.1.0_amd64.deb
+Size: 79492
+SHA256: 3e0b08262dadfa27e51a3783efe67ad0fce48d508cb008ae9df96e31f6759d1c
+SHA1: fac4870060aa42c200c1fe61c8c26a0dd0b1fb45
+MD5sum: ad7decc919a38702ba7ede336d0e8dc8
+Description: Fast system information tool with ASCII art
+ Neofetch-C is a fast reimplementation of the neofetch system information
+ utility in C. It displays key system details alongside colorful ASCII art
+ logos for your distribution, optimized for speed and low resource usage.
+

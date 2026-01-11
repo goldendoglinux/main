@@ -1,7 +1,7 @@
 Origin: GoldenDog
 Label: GoldenDogLinux-Repo
-Codename: stable
+Codename: goldenretriever
 Architectures: amd64 source
 Components: main
-Description: GoldenDog Linux Official Repository
+Description: GoldenDog Linux 2 (Golden Retriever)
 SignWith: B9C0C0364C111625187FC10B022C02DADC4B35C1
