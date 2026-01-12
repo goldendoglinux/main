@@ -1,27 +1,27 @@
 Origin: GoldenDog
 Label: GoldenDogLinux-Repo
 Codename: goldenretriever
-Date: Mon, 12 Jan 2026 00:01:34 UTC
+Date: Mon, 12 Jan 2026 00:12:57 UTC
 Architectures: amd64
 Components: main
 Description: GoldenDog Linux 2 (Golden Retriever)
 MD5Sum:
- e34c68f100913aaf2d1ea71bd28b59dd 3197 main/binary-amd64/Packages
- 0d24b8c90fcb9cdc66be52d60d99a269 1489 main/binary-amd64/Packages.gz
+ 189bbb9402c29b64bfe8b6f4ba83a682 3167 main/binary-amd64/Packages
+ 2904ad6d722c5cd155c981505871680e 1488 main/binary-amd64/Packages.gz
  9d3287710652aad16857b1b4a8c5fe83 131 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
  63e59dc48a131220b9be9d16a830cde2 132 main/source/Release
 SHA1:
- 81691d50c14eaa5bffe351138ceeeb39644549ea 3197 main/binary-amd64/Packages
- 8544e22b9fe9b92e7ddfca02ebd9935a8256cd87 1489 main/binary-amd64/Packages.gz
+ e40c4352435f64ed675ce67f66ecd23d43d9f39d 3167 main/binary-amd64/Packages
+ 77e24dcb8fd7ab9cb90baee773218feb7d144d5e 1488 main/binary-amd64/Packages.gz
  fc1f228b2b2bee42be94e633a54fec7e6e1ccd3f 131 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
  d6c61b8eeba6b79d53af3770f4ef8a9224f8f73f 132 main/source/Release
 SHA256:
- a06f6d530dac49d42d69194a61e356a6b98a06198c988ce75fa22e66bc1bfc81 3197 main/binary-amd64/Packages
- d47628dac098a1570425d6ff8bebc6c9d71ca007837fed660937fbb99773063b 1489 main/binary-amd64/Packages.gz
+ affcd0e9916273425740859536c4675bb7469c5b4aeb7d119b719192b71dd2c3 3167 main/binary-amd64/Packages
+ d102c05756311b2d1f9a260e1696796b398ff3290e56f4f34f838d17f6d9b806 1488 main/binary-amd64/Packages.gz
  b46d4aa7b5e5aa7dad9caa1e0ba9b525f7fc278d572c120a6b63335ff16895c4 131 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz

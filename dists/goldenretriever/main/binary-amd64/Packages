@@ -43,20 +43,20 @@ Description: GoldenDog Linux System - Metapackage
  when a new version of GoldenDog is released, this package will depend on
  the new components, ensuring a smooth upgrade path.
 
-Package: nano-goldendog
+Package: nano
 Version: 8.7-goldendog1
 Architecture: amd64
 Maintainer: Alexia Michelle <alexia@goldendoglinux.org>
-Installed-Size: 2770
+Installed-Size: 2769
 Depends: libc6 (>= 2.34), libmagic1 (>= 5.12), libncursesw6 (>= 6), libtinfo6 (>= 6)
 Homepage: https://www.gnu.org/software/nano/
 Priority: optional
 Section: editors
-Filename: pool/main/n/nano-goldendog/nano-goldendog_8.7-goldendog1_amd64.deb
-Size: 599940
-SHA256: 3f0f0b13f9df37667e9b66ed21423006f1338af0637f4c8035d23df76d09b1d4
-SHA1: 8b99e8b8508992b3b2732b8864ced7e466ee25bf
-MD5sum: 55ffd6a5ae239cc1796c8c23a56f11f3
+Filename: pool/main/n/nano/nano_8.7-goldendog1_amd64.deb
+Size: 600096
+SHA256: 521e948914f1e8900ff4298932ad2d55661f429b084f8c8371d62d53d413bcc6
+SHA1: 0a54d5fcc2323c9b3aa22421b9d5b3b3c380d1d3
+MD5sum: bf338f2b49d28268f5d9883fdc4e29a2
 Description: GNU nano 8.7 for GoldenDog Linux
  Custom build of GNU nano 8.7 compiled with wide character support,
  magic-based syntax detection, nanorc syntax bundles, and debugging
