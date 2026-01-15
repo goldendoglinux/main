@@ -1,17 +1,17 @@
 Package: goldendog-welcome
-Version: 1.0.0
+Version: 1.0.1
 Architecture: all
 Maintainer: Alexia Steinberg <alexia@goldendoglinux.org>
-Installed-Size: 135
+Installed-Size: 142
 Depends: python3, python3-gi, gir1.2-gtk-4.0, gir1.2-adw-1
 Homepage: https://goldendoglinux.org
 Priority: optional
 Section: admin
-Filename: pool/main/g/goldendog-welcome/goldendog-welcome_1.0.0_all.deb
-Size: 32980
-SHA256: b507a533efaf3e08b4252c97d91009660615e53eafe4e7cce213b3fe1c78e35e
-SHA1: 3d6acbc988a4e7ab27f44877333c36d120d2b820
-MD5sum: d4756f83525facd05c71707667a93407
+Filename: pool/main/g/goldendog-welcome/goldendog-welcome_1.0.1_all.deb
+Size: 35036
+SHA256: d9032b79ef26f17b31da5145a131d01183c38d70eab43fa797e0f78105fad655
+SHA1: 48dd17f7476d04263ea3370cbc5741c1d859463c
+MD5sum: 94455d25873ba18bfeb821ba3776b2b0
 Description: First-boot welcome screen for GoldenDog Linux
  A modern welcome screen built with GTK4 and libadwaita that guides
  new users through initial system setup.
@@ -19,6 +19,7 @@ Description: First-boot welcome screen for GoldenDog Linux
  Features:
   - Multi-language support (8 languages)
   - EULA acceptance
+  - Newsletter subscription with language-specific routing
   - Telemetry configuration (KDE Plasma and Debian popularity-contest)
   - Clean, responsive Adwaita design
 
